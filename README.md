@@ -1,10 +1,27 @@
 # CPU Scheduler Simulator
 
 **CPU Scheduler Simulator** is a Java-based desktop application built with JavaFX to simulate and visualize various CPU scheduling algorithms in real time. The application offers dynamic process management, live visualization, and detailed statistical analysis—ideal for academic and educational purposes.
+
 ### Home Screen
 ![Home Screen](cpu_scheduler/src/main/resources/com/swiftfox/images/welcomingScene.png "Home Screen")
+
 ### Processing Screen
 ![Processing Screen](cpu_scheduler/src/main/resources/com/swiftfox/images/MainScene.png "Processing Screen")
+
+---
+
+## Table of Contents 📑
+
+1. [Supported Scheduling Algorithms](#supported-scheduling-algorithms)
+2. [Key Features](#key-features)
+3. [Input Parameters by Scheduler](#input-parameters-by-scheduler)
+4. [Documentation 📚](#documentation-)
+5. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Running the Application](#running-the-application)
+        - [Option 1: Using the Executable EXE](#option-1-using-the-executable-exe)
+        - [Option 2: Using the Executable JAR](#option-2-using-the-executable-jar)
+        - [Option 3: From Source (Maven)](#option-3-from-source-maven)
 
 ---
 
@@ -48,6 +65,10 @@
 
 ---
 
+## Documentation 📚
+
+For detailed documentation on how the project works and how to contribute, please visit the [Documentation](https://moustafahashem.github.io/SwiftFox-Simulator/).
+---
 ## Getting Started
 
 ### Prerequisites
